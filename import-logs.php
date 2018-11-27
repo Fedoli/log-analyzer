@@ -1,5 +1,5 @@
 <?php
-// definisco i valori del server 
+// definisco i valori del server asdasdasdasaas
 $login = 'username';
 $password = 'password';
 $host = "nome_host";
